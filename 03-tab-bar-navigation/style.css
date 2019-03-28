@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-/* General Styles */
 * {
 	box-sizing: border-box;
 }
@@ -28,7 +27,6 @@ h2 {
 	height: 100%;
 }
 
-/* Tab styles */
 .tab-nav-container {
 	background-color: #fff;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 
